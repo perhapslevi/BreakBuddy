@@ -11,9 +11,13 @@ All notable changes to BreakBuddy will be documented in this file.
 
 ## UNRELEASED
 ### Added
+-
 ### Deprecated
+-
 ### Removed
+-
 ### Fixed
+-
 
 ## [0.9.2] Yoplait Petit Miam - 09-07-2019
 Second Beta version.

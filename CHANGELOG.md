@@ -10,6 +10,13 @@ All notable changes to BreakBuddy will be documented in this file.
 ----------------------------------------
 
 ## UNRELEASED
+### Added
+### Deprecated
+### Removed
+### Fixed
+
+## [0.9.2] Yoplait Petit Miam - 09-07-2019
+Second Beta version.
 ### Added 
 - Installer now automatically adds BreakBuddy to the Start Menu.
 - BreakBuddy now refers to you by name.
@@ -17,11 +24,9 @@ All notable changes to BreakBuddy will be documented in this file.
 - BreakBuddy now re-loads after notifying you of the end of your shift in order to select breaks for the next day.
 ### Deprecated
 - Test Shift no longer shows in the dropdown - this debug code should be hidden from all future versions.
-### Removed
-### Fixed
 
 ## [0.9.1] Zooper Dooper - 2019-07-09
-Beta version.
+Initial beta version.
 ### Added
 - Option to select current shift from drop down menu.
 - Option to remind prior to breaks (anywhere from 1 minute to 60 minutes - default is 10.)

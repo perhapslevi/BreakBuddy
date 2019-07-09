@@ -2,10 +2,10 @@
 All notable changes to BreakBuddy will be documented in this file.
 
 ## *Planned Future Improvements*
-- Re-load at the end of shift in order to select breaks for the next day.
-- Support for ends of breaks.
+
 - Remember local settings.
 - Randomised messages.
+- Support for ends of breaks.
 
 ----------------------------------------
 
@@ -13,11 +13,12 @@ All notable changes to BreakBuddy will be documented in this file.
 ### Added 
 - Installer now automatically adds BreakBuddy to the Start Menu.
 - BreakBuddy now refers to you by name.
+- Toast notification now has a friendly message when BreakBuddy Starts Running.
+- BreakBuddy now re-loads after notifying you of the end of your shift in order to select breaks for the next day.
 ### Deprecated
+- Test Shift no longer shows in the dropdown - this debug code should be hidden from all future versions.
 ### Removed
 ### Fixed
-### Changed
-- Toast notification now has a friendly message when BreakBuddy Starts Running.
 
 ## [0.9.1] Zooper Dooper - 2019-07-09
 Beta version.

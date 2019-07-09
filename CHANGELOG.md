@@ -1,11 +1,13 @@
 # BreakBuddy Changelog
 All notable changes to BreakBuddy will be documented in this file.
 
-## Planned Future Improvements
+## *Planned Future Improvements*
 - Re-load at the end of shift in order to select breaks for the next day.
 - Support for ends of breaks.
 - Remember local settings.
 - Randomised messages.
+
+----------------------------------------
 
 ## UNRELEASED
 ### Added 

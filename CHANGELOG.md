@@ -7,7 +7,7 @@ All notable changes to BreakBuddy will be documented in this file.
 ### Removed
 ### Fixed
 
-## [0.9.1] (version name) - 2019-07-?
+## [0.9.1] (version name) - 2019-07-09
 Beta version.
 ### Added
 - Option to select surrent shift from drop down menu.

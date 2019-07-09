@@ -19,7 +19,7 @@ All notable changes to BreakBuddy will be documented in this file.
 ### Fixed
 -
 
-## [0.9.2] Yoplait Petit Miam - 09-07-2019
+## [0.9.2] Yoplait Petit Miam - 2019-07-09
 Second Beta version.
 ### Added 
 - Installer now automatically adds BreakBuddy to the Start Menu.

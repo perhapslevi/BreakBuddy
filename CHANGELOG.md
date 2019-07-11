@@ -24,7 +24,7 @@ All notable changes to BreakBuddy will be documented in this file.
 - 
 ----------------------------------------
 ## Current version
-## [0.9.3] XO Sauce - 2019-07-11
+## [0.9.3] XO Sauce - 2019-07-11 (Beta v3)
 ### Added
 - Messages from BreakBuddy are now randomised - upwards of 300 possible messages!
 ### Fixed
@@ -32,7 +32,7 @@ All notable changes to BreakBuddy will be documented in this file.
 
 ----------------------------------------
 ## Previous Versions
-## [0.9.2] Yoplait Petit Miam - 2019-07-09
+## [0.9.2] Yoplait Petit Miam - 2019-07-09 (Beta v2)
 Second Beta version.
 ### Added 
 - Installer now automatically adds BreakBuddy to the Start Menu.
@@ -42,8 +42,7 @@ Second Beta version.
 ### Deprecated
 - Test Shift no longer shows in the dropdown - this debug code should be hidden from all future versions.
 
-## [0.9.1] Zooper Dooper - 2019-07-09
-Initial beta version.
+## [0.9.1] Zooper Dooper - 2019-07-09 (Beta v1)
 ### Added
 - Option to select current shift from drop down menu.
 - Option to remind prior to breaks (anywhere from 1 minute to 60 minutes - default is 10.)

@@ -19,7 +19,7 @@ All notable changes to BreakBuddy will be documented in this file.
 
 ## [0.9.3] XO Sauce - 2019-07-11
 ### Added
-- Messages from BreakBuddy are now randomised - upwards of300 possible messages!
+- Messages from BreakBuddy are now randomised - upwards of 300 possible messages!
 ### Fixed
 - Installer now allows options to install to Start Menu, and run on startup.
 

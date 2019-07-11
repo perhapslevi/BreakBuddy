@@ -4,20 +4,19 @@ All notable changes to BreakBuddy will be documented in this file.
 ## *Planned Future Improvements*
 
 - Remember local settings.
-- Randomised messages.
 - Support for ends of breaks.
 
 ----------------------------------------
 
 ## UNRELEASED
 ### Added
--
+- Messages from BreakBuddy are now randomised - upwards of300 possible messages!
 ### Deprecated
 -
 ### Removed
 -
 ### Fixed
--
+- Installer now allows options to install to Start Menu, and run on startup.
 
 ## [0.9.2] Yoplait Petit Miam - 2019-07-09
 Second Beta version.

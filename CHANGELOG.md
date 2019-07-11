@@ -1,10 +1,16 @@
 # BreakBuddy Changelog
 All notable changes to BreakBuddy will be documented in this file.
 
-## *Planned Future Improvements*
+## *Requirements for Version 1.0*
 
 - Remember local settings.
 - Support for ends of breaks.
+
+## *Planned Future Developments*
+- Pull shift details from Replicon or somewhere else, so that users shift is selected automatically.
+-- This might be trickier than I initially thought. If you have any ideas, I'm open to hearing them.
+- Adding patch numbers to the main screen.
+-- Patches will be released if break times change. Having something visible on the main screen will make it easier to quickly tell which one is being used.
 
 ----------------------------------------
 ## UNRELEASED
@@ -16,13 +22,16 @@ All notable changes to BreakBuddy will be documented in this file.
 -
 ### Fixed
 - 
-
+----------------------------------------
+## Current version
 ## [0.9.3] XO Sauce - 2019-07-11
 ### Added
 - Messages from BreakBuddy are now randomised - upwards of 300 possible messages!
 ### Fixed
 - Installer now allows options to install to Start Menu, and run on startup.
 
+----------------------------------------
+## Previous Versions
 ## [0.9.2] Yoplait Petit Miam - 2019-07-09
 Second Beta version.
 ### Added 

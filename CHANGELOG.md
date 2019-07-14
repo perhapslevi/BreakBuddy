@@ -4,8 +4,6 @@ All notable changes to BreakBuddy will be documented in this file.
 ### *Requirements for Version 1.0*
 
 * Remember local settings.
-* Adding patch numbers to the main screen.
-  * Patches will be released if break times change. Having something visible on the main screen will make it easier to quickly tell which one is being used.
 * Support for ends of breaks.
 
 ### *Planned Future Developments*
@@ -16,7 +14,8 @@ All notable changes to BreakBuddy will be documented in this file.
 ----------------------------------------
 ## UNRELEASED
 #### Added
--
+- Patch numbers now show on main screen.
+  - Patch number refers to the roster data - the file from which BreakBuddy pulls its information. When break times are changed, new patches will be released.
 #### Deprecated
 -
 #### Removed

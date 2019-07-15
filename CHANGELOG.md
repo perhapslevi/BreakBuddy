@@ -1,10 +1,8 @@
 # BreakBuddy Changelog
 All notable changes to BreakBuddy will be documented in this file.
 
-### *Requirements for Version 1.0*
-* Support for ends of breaks.
-
 ### *Planned Future Developments*
+* Support for ends of breaks.
 * Pull shift details from Replicon or somewhere else, so that users shift is selected automatically.
   * This might be trickier than I initially thought. If you have any ideas, I'm open to hearing them.
 

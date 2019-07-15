@@ -2,8 +2,6 @@
 All notable changes to BreakBuddy will be documented in this file.
 
 ### *Requirements for Version 1.0*
-
-* Remember local settings.
 * Support for ends of breaks.
 
 ### *Planned Future Developments*
@@ -16,6 +14,8 @@ All notable changes to BreakBuddy will be documented in this file.
 #### Added
 - Patch numbers now show on main screen.
   - Patch number refers to the roster data - the file from which BreakBuddy pulls its information. When break times are changed, new patches will be released.
+- BreakBuddy now remembers your settings.
+  - Reset to Default button has also been added
 #### Deprecated
 -
 #### Removed

@@ -18,6 +18,7 @@ All notable changes to BreakBuddy will be documented in this file.
 #### Fixed
 - 
 ----------------------------------------
+## Current version
 ## [1.0.0] Wagon Wheels - 2019-07-17
 #### Added
 - Patch numbers now show on main screen.
@@ -27,17 +28,16 @@ All notable changes to BreakBuddy will be documented in this file.
 - Added a number of new messages to the random draw pool.
 - Tooltip for the Tray Icon now displays the version and patch details
 - Right-Click menu for Tray Icon now displays the selected shiftcode
+- Minor cosmetic changes
 
 ----------------------------------------
-## Current version
+## Previous Versions
 ### [0.9.3] XO Sauce - 2019-07-11 (Beta v3)
 #### Added
 - Messages from BreakBuddy are now randomised - upwards of 300 possible messages!
 #### Fixed
 - Installer now allows options to install to Start Menu, and run on startup.
 
-----------------------------------------
-## Previous Versions
 ### [0.9.2] Yoplait Petit Miam - 2019-07-09 (Beta v2)
 Second Beta version.
 #### Added 

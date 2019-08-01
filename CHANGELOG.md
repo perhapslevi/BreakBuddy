@@ -8,8 +8,9 @@ All notable changes to BreakBuddy will be documented in this file.
 
 
 ----------------------------------------
-## UNRELEASED
+## UNRELEASED <!--- [1.0.1] Vegemite on Toast -->
 #### Added
+- Link to Replicon on Settings dialog.
 - 
 #### Deprecated
 -

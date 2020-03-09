@@ -6,20 +6,26 @@ All notable changes to BreakBuddy will be documented in this file.
 * Pull shift details from Replicon or somewhere else, so that users shift is selected automatically.
   * This might be trickier than I initially thought. If you have any ideas, I'm open to hearing them.
 
-
 ----------------------------------------
-## UNRELEASED <!--- [1.0.1] Vegemite on Toast -->
+## UNRELEASED <!--- [1.x.x] Up & Go -->
 #### Added
-- Link to Replicon on Settings dialog.
-- 
+-
+### Fixed
+-
 #### Deprecated
 -
 #### Removed
 -
-#### Fixed
-- 
 ----------------------------------------
-## Current version
+## Current version 
+## [1.1.0] Vegemite on Toast
+#### Added
+- Link to Replicon on Setup dialog.
+- Custom Shift option.
+- Version Details option in right-click tray menu.
+  - Clicking the version or patch number on the Setup dialog opens Version Details window.
+
+----------------------------------------
 ## [1.0.0] Wagon Wheels - 2019-07-17
 #### Added
 - Patch numbers now show on main screen.

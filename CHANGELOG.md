@@ -26,6 +26,7 @@ All notable changes to BreakBuddy will be documented in this file.
   - Clicking the version or patch number on the Setup dialog opens Version Details window.
 
 ----------------------------------------
+## Previous Versions
 ## [1.0.0] Wagon Wheels - 2019-07-17
 #### Added
 - Patch numbers now show on main screen.
@@ -37,8 +38,6 @@ All notable changes to BreakBuddy will be documented in this file.
 - Right-Click menu for Tray Icon now displays the selected shiftcode
 - Minor cosmetic changes
 
-----------------------------------------
-## Previous Versions
 ### [0.9.3] XO Sauce - 2019-07-11 (Beta v3)
 #### Added
 - Messages from BreakBuddy are now randomised - upwards of 300 possible messages!

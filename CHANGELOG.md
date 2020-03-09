@@ -18,7 +18,7 @@ All notable changes to BreakBuddy will be documented in this file.
 -
 ----------------------------------------
 ## Current version 
-## [1.1.0] Vegemite on Toast
+## [1.1.0] Vegemite on Toast 2020-03-09
 #### Added
 - Link to Replicon on Setup dialog.
 - Custom Shift option.
@@ -27,7 +27,7 @@ All notable changes to BreakBuddy will be documented in this file.
 
 ----------------------------------------
 ## Previous Versions
-## [1.0.0] Wagon Wheels - 2019-07-17
+### [1.0.0] Wagon Wheels - 2019-07-17
 #### Added
 - Patch numbers now show on main screen.
   - Patch number refers to the roster data - the file from which BreakBuddy pulls its information. When break times are changed, new patches will be released.
